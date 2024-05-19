@@ -1,6 +1,6 @@
 {
   "name": "alokai-cool-integration",
-  "version": "1.0.0",
+  "version": "2.0.0-next.0",
   "sideEffects": false,
   "server": "server/index.js",
   "main": "lib/index.cjs.js",
