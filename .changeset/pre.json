@@ -1,0 +1,10 @@
+{
+  "mode": "pre",
+  "tag": "next",
+  "initialVersions": {
+    "alokai-cool-integration": "0.0.0",
+    "next-app": "0.1.0",
+    "@vue-storefront/integration-boilerplate-playground-middleware": "0.1.0"
+  },
+  "changesets": []
+}
