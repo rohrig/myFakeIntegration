@@ -1,12 +1,12 @@
 {
-  "name": "@vue-storefront/myCoolIntegration",
+  "name": "alokai-cool-integration",
   "version": "0.0.0",
   "sideEffects": false,
   "server": "server/index.js",
   "main": "lib/index.cjs.js",
   "module": "lib/index.es.js",
   "types": "lib/index.d.ts",
-  "license": "VSFEL",
+  "license": "MIT",
   "engines": {
     "node": ">=16.x"
   },
