@@ -1,5 +1,11 @@
 # alokai-cool-integration
 
+## 2.0.0
+
+### Major Changes
+
+- 59e9c43: add hocky
+
 ## 2.0.0-next.0
 
 ### Major Changes

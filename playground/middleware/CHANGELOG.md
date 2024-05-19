@@ -1,5 +1,12 @@
 # @vue-storefront/integration-boilerplate-playground-middleware
 
+## 0.1.2
+
+### Patch Changes
+
+- Updated dependencies [59e9c43]
+  - alokai-cool-integration@2.0.0
+
 ## 0.1.2-next.0
 
 ### Patch Changes
